@@ -1,6 +1,5 @@
-[
-  {
-    "content": "@everyone New Update Released \n\n What’s New: \n - Toggle Menu Hotkey – you can now change the menu hotkey inside the Settings tab. \n - Rank Number Fix – rank numbers now correctly change from 1 to 3. \n - Auto Leaver – automatically leaves the match when the game finishes. \n - Improved KBM Overlay – cleaner and more accurate keyboard & mouse display. \n - Improved Controller Overlay – better visuals and input tracking. \n - Color Page Updates: \n   - Trim Color Changer \n   - Tiers Color Changer \n   - Headlight Color Changer (currently not working) \n\n Just download the loader from <#1460222121098739854> \n - If you experience any crashes, open a ticket in <#1397967636804931616> \n\n Experience your game your way.",
-    "date": "2026-01-20"
-  }
-]
+{
+  "content": "@everyone New Update Released\n\n📅 Date: 2026-01-23\n\nWhat’s New:\n- Updated RLSDK to the newest version\n\n📥 Download the loader from <#1460222121098739854>\n🐞 If you experience any crashes, open a ticket in <#1397967636804931616>",
+  "date": "2026-01-23"
+}
+
